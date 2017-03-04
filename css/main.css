@@ -23,7 +23,7 @@ body {
   border-style: solid;
   border-color: white;
   margin: auto;
-  padding: 0px;
+  padding: auto;
   position: absolute;
   top: 0;
   bottom: 0;
