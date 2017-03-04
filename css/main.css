@@ -1,7 +1,8 @@
 .BoxTitle {
   height: 150px;
   width: 20%;
-  border: 10px;
+  height: 40%
+  border: 40px;
   border-style: outset;
   border-color: white;
   margin: auto;
