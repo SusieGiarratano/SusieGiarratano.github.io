@@ -4,8 +4,8 @@
   border: 10px;
   border-style: outset;
   border-color: white;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  padding: 10px;
 }
 
 
