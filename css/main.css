@@ -23,7 +23,7 @@ body {
   border-style: outset;
   border-color: white;
   margin: auto;
-  padding: auto;
+  padding-top: 3px;
   position: absolute;
   top: 0;
   bottom: 0;
