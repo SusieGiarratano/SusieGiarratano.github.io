@@ -22,7 +22,7 @@ body {
   background-position: center;
 }
 
-h1 {
+p {
   font-family: "Arial";
   font-size: 45px;
   color: white;
@@ -32,8 +32,8 @@ h1 {
 }
 
 .G {
-  font-family: "Courier New";
-  font-size: 75px;
+  font-family: "Century Gothic";
+  font-size: 112px;
   color: white;
   text-align: center;
   word-wrap: break-word;
