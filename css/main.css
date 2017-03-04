@@ -1,4 +1,12 @@
 body {
-  background-image: src="https://www.refundschedule.com/wp-content/uploads/2014/01/grey-website-background-illusionapparel2.jpg" type="stylesheet";
+  background-image: src="https://www.refundschedule.com/wp-content/uploads/2014/01/grey-website-background-illusionapparel2.jpg" type="stylesheet"
   
+}
+
+h1 {
+  font-family: "Arial";
+  font-size: 40px;
+  color: green;
+  text-align: center;
+    
 }
