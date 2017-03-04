@@ -3,7 +3,7 @@
   width: 20%;
   height: 40%;
   border: 40px;
-  border-style: outset;
+  border-style: inset;
   border-color: white;
   margin: auto;
   padding: 10px;
@@ -24,7 +24,7 @@ body {
 
 h1 {
   font-family: "Arial";
-  font-size: 75px;
+  font-size: 95px;
   color: white;
   text-align: center;
   word-wrap: break-word;  
