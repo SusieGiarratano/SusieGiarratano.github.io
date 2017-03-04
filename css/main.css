@@ -27,5 +27,5 @@ h1 {
   font-size: 75px;
   color: white;
   text-align: center;
-  word-break: break-all;  
+  word-wrap: break-word;  
 }
