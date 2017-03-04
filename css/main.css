@@ -32,7 +32,7 @@ p {
 }
 
 .G {
-  font-family: "Century Gothic";
+  font-family: "Century Gothic", sans-serif;
   font-size: 112px;
   color: white;
   text-align: center;
