@@ -6,12 +6,17 @@
   border-color: white;
   margin: auto;
   padding: 10px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 
 body {
   background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/03/Free-Grunge-Watercolor-Stock-Background-Images.jpg');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
   background-position: center;
 }
