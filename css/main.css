@@ -1,9 +1,11 @@
 .BoxTitle {
-  height: 300px;
+  height: 150px;
   width: 20%;
   border: 10px;
   border-style: outset;
   border-color: white;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 
