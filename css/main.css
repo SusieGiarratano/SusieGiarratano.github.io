@@ -11,7 +11,7 @@ body {
 }
 
 .G {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Courier New", monospace;
   font-size: 112px;
   color: white;
   text-align: center;
@@ -24,7 +24,7 @@ body {
   border-color: white;
   margin: auto;
   padding: 0px;
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
