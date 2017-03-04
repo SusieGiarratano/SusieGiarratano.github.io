@@ -24,8 +24,9 @@ body {
 
 h1 {
   font-family: "Arial";
-  font-size: 95px;
+  font-size: 75px;
   color: white;
   text-align: center;
-  word-wrap: break-word;  
+  word-wrap: break-word;
+  word-spacing: 3px;
 }
