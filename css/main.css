@@ -20,7 +20,7 @@ body {
   height: 150px;
   width: 150px;
   border: 30px;
-  border-style: inline;
+  border-style: outset;
   border-color: white;
   margin: auto;
   padding: auto;
