@@ -1,4 +1,22 @@
 .BoxTitle {
+  
+}
+
+
+body {
+  background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/03/Free-Grunge-Watercolor-Stock-Background-Images.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.G {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 112px;
+  color: white;
+  text-align: center;
+  word-wrap: break-word;
+  word-spacing: 3px;
   height: 150px;
   width: 30%;
   border: 40px;
@@ -11,30 +29,4 @@
   bottom: 0;
   left: 0;
   right: 0;
-}
-
-
-body {
-  background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/03/Free-Grunge-Watercolor-Stock-Background-Images.jpg');
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-position: center;
-}
-
-p {
-  font-family: "Arial";
-  font-size: 45px;
-  color: white;
-  text-align: center;
-  word-wrap: break-word;
-  word-spacing: 3px;
-}
-
-.G {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 112px;
-  color: white;
-  text-align: center;
-  word-wrap: break-word;
-  word-spacing: 3px;
 }
