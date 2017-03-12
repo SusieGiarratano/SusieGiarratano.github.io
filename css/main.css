@@ -38,7 +38,13 @@ body {
    font-family: "Raleway", monospace;
    color: white;
    text-align: center;
-    width: 300px;
+    width: 250px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .profile {
