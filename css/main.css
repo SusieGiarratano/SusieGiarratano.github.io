@@ -70,3 +70,9 @@ body {
   width: 250px;
   float: center;
 }
+
+.CV {
+  display: inline;
+  float: left;
+
+}
