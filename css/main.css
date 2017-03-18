@@ -31,6 +31,7 @@ body {
    font-family: "Raleway", monospace;
    color: white;
    text-align: center;
+  width: 500px;
   border-style: solid;
   border-color: white;
   border-width: 2px;
