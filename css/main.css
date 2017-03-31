@@ -53,6 +53,10 @@ body {
     margin: auto;
 }
 
+.intro h2 {
+    word-break: break-all:
+}
+
 .profile {
   position: relative;
   width: 500px;
