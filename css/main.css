@@ -82,11 +82,12 @@ body {
 .profile {
   position: relative;
   width: 500px;
-  height: 500px;
+  height: auto;
   overflow: hidden;
   border-radius: 50%;
   margin: auto;
   float: center;
+  max-width: 100%;
 }
 
 .profile img {
