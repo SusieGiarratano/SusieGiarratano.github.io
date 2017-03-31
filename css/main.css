@@ -42,7 +42,18 @@ body {
   border-style: solid;
   border-color: black;
   border-width: 2px;
-  
+}
+
+.art {
+  font-family: "Raleway", monospace;
+   color: black;
+   text-align: center;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 25%;
 }
 
 .profile {
