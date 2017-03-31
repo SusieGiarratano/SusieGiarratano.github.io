@@ -54,6 +54,7 @@ body {
   right: 0;
   margin: auto;
   width: 500px;
+  word-break: break-word;
 }
 
 .profile {
