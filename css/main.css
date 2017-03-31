@@ -45,22 +45,6 @@ body {
   
 }
 
-.intro p {
-   font-family: "Raleway", monospace;
-   color: black;
-   text-align: center;
-    width: 300px;
-    margin: auto;
-    padding-bottom: 40px;
-}
-
-.intro h2 {
-    width:500px;
-    word-break: break-word;
-    text-align: center;
-    margin: auto;
-}
-
 .profile {
   position: relative;
   width: 500px;
